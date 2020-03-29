@@ -18,4 +18,7 @@
     <string name="the_mars">The Mars</string>
     <string name="go">Go!</string>
     <string name="check_internet_text">Internet connection required!</string>
+    <string name="flight_information">Flight information</string>
+    <string name="welcome_to_the_moon">Welcome to The Moon!</string>
+    <string name="moon_desc">Short jorney on the surface of the planet with sightseeing and shopping malls.\n\nFREE tickets to the International Moon Museum! \n\nThe flight longs 21 hour, decline your seat and enjoy entertainment system on board!\n\nHave a nice trip!</string>
 </resources>

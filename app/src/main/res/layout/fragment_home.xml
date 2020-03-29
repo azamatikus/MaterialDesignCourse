@@ -10,6 +10,7 @@
     <ImageView
         android:id="@+id/imageView3"
         android:layout_width="70dp"
+        android:contentDescription="@string/app_name"
         android:layout_height="100dp"
         android:layout_marginTop="16dp"
         android:scaleType="centerInside"
