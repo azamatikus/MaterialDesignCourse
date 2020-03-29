@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MaterialDesignCourse</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome aboard, captain!</string>
+    <string name="nav_header_subtitle">please, fasten your seatbelt</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Earth</string>
+    <string name="menu_gallery">Moon</string>
+    <string name="menu_slideshow">Mars</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="sign_in">Go!</string>
+    <string name="the_moon">The Moon</string>
+    <string name="loging_txt">Enter your name</string>
+    <string name="the_mars">The Mars</string>
+    <string name="go">Go!</string>
+    <string name="check_internet_text">Internet connection required!</string>
+</resources>
